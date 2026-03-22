@@ -8,7 +8,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.css'
 })
 export class App {
-  title = 'cicdtest';
+  title = 'Team';
  
   private readonly SPARKS = ['✨', '⭐', '💥', '🌟', '✦', '★', '•', '◆', '▲', '❋'];
   private readonly COLORS = [
